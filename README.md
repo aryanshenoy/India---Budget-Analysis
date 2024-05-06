@@ -1,4 +1,4 @@
-<h1>Budget-Allocation-and-Analysis-India</h1>
+<h1>Analysis of Indian Union Budget</h1>
 <h3>Introduction</h3>
 <p>
 This project helps the user to analyze the funds allocated by the government to different ministries, departments, and union territories for the financial year 2022-23, 20223-24, and 2024-25 (estimates only). While doing the project, the complete budget for the 2024-25 financial year wasn't released so estimates were considered for the analysis.
